@@ -1,0 +1,12 @@
+C:\Users\claud\OneDrive\Área de Trabalho\Projects\.NET\Codar\submodule\obj\Debug\net7.0\submodule.csproj.AssemblyReference.cache
+C:\Users\claud\OneDrive\Área de Trabalho\Projects\.NET\Codar\submodule\obj\Debug\net7.0\submodule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claud\OneDrive\Área de Trabalho\Projects\.NET\Codar\submodule\obj\Debug\net7.0\submodule.AssemblyInfoInputs.cache
+C:\Users\claud\OneDrive\Área de Trabalho\Projects\.NET\Codar\submodule\obj\Debug\net7.0\submodule.AssemblyInfo.cs
+C:\Users\claud\OneDrive\Área de Trabalho\Projects\.NET\Codar\submodule\obj\Debug\net7.0\submodule.csproj.CoreCompileInputs.cache
+C:\Users\claud\OneDrive\Área de Trabalho\Projects\.NET\Codar\submodule\bin\Debug\net7.0\submodule.deps.json
+C:\Users\claud\OneDrive\Área de Trabalho\Projects\.NET\Codar\submodule\bin\Debug\net7.0\submodule.dll
+C:\Users\claud\OneDrive\Área de Trabalho\Projects\.NET\Codar\submodule\bin\Debug\net7.0\submodule.pdb
+C:\Users\claud\OneDrive\Área de Trabalho\Projects\.NET\Codar\submodule\obj\Debug\net7.0\submodule.dll
+C:\Users\claud\OneDrive\Área de Trabalho\Projects\.NET\Codar\submodule\obj\Debug\net7.0\refint\submodule.dll
+C:\Users\claud\OneDrive\Área de Trabalho\Projects\.NET\Codar\submodule\obj\Debug\net7.0\submodule.pdb
+C:\Users\claud\OneDrive\Área de Trabalho\Projects\.NET\Codar\submodule\obj\Debug\net7.0\ref\submodule.dll
